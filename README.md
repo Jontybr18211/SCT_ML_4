@@ -7,11 +7,7 @@
   </p>
 </div>
 
-<!-- BADGES -->
-<div align="center">
-  <a href="https://github.com/[your-username]/[your-repo-name]/blob/main/LICENSE"><img src="https://img.shields.io/github/license/[your-username]/[your-repo-name]?style=for-the-badge" alt="License"></a>
-  <a href="https://github.com/[your-username]/[your-repo-name]/stargazers"><img src="https://img.shields.io/github/stars/[your-username]/[your-repo-name]?style=for-the-badge" alt="Stars"></a>
-  <a href="https://github.com/[your-username]/[your-repo-name]/issues"><img src="https://img.shields.io/github/issues/[your-username]/[your-repo-name]?style=for-the-badge" alt="Issues"></a>
+
 </div>
 
 ---
