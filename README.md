@@ -14,7 +14,7 @@
 
 ## About The Project 🚀
 
-[![Product Screen Shot](https://placehold.co/600x400/cccccc/ffffff?text=App+Screenshot+Here)]([Link to your project URL])
+
 
 This project provides a futuristic, touch-free way to control your system's master volume. By analyzing the live feed from your webcam, the application identifies your hand and translates the distance between your thumb and index finger into a specific volume level.
 
