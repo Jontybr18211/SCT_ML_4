@@ -113,7 +113,6 @@ The application operates as a real-time data processing pipeline for each frame 
 * [ ] Create a simple GUI for settings and webcam selection.
 * [ ] Package the application into a standalone executable.
 
-See the [open issues](https://github.com/[your-username]/[your-repo-name]/issues) for a full list of proposed features (and known issues).
 
 
 ## License 📜
@@ -124,9 +123,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact 📬
 
-[Your Name] - [@YourTwitter] - [email@example.com]
+[Soumaditya Deb] - [debsoumaditya@gmail.com]
 
-Project Link: [https://github.com/[your-username]/[your-repo-name]](https://github.com/[your-username]/[your-repo-name])
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
