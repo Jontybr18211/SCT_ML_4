@@ -1,5 +1,3 @@
-<div align="center">
-  <img src="https://placehold.co/120x120/8b5cf6/ffffff?text=🔊" alt="Logo" width="120" height="120">
 
   <h1 align="center">Gesture Volume Control System</h1>
 
