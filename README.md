@@ -115,15 +115,10 @@ The application operates as a real-time data processing pipeline for each frame 
 
 
 
-## License 📜
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
----
 
-## Contact 📬
 
-[Soumaditya Deb] - [debsoumaditya@gmail.com]
 
 
 
