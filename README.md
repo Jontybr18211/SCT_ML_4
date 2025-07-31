@@ -4,7 +4,7 @@
   <p align="center">
     Control your computer's system volume using hand gestures through your webcam.
     <br />
-    <a href="https://github.com/[your-username]/[your-repo-name]"><strong>Explore the Code »</strong></a>
+  
     <br />
     <br />
     <a href="https://github.com/[your-username]/[your-repo-name]/issues">Report Bug</a>
